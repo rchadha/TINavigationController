@@ -1,3 +1,3 @@
 dependencies: \
-  /Users/rchadha/Documents/Titanium\ Studio\ Workspace/TutorialUsingCommonJS/build/iphone/Classes/AsyncUdpSocket.m \
-  /Users/rchadha/Documents/Titanium\ Studio\ Workspace/TutorialUsingCommonJS/build/iphone/Classes/AsyncUdpSocket.h
+  /Users/rchadha/Documents/Titanium\ Studio\ Workspace/TINavigationController/build/iphone/Classes/AsyncUdpSocket.m \
+  /Users/rchadha/Documents/Titanium\ Studio\ Workspace/TINavigationController/build/iphone/Classes/AsyncUdpSocket.h

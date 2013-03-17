@@ -1,1 +1,1 @@
-/Users/rchadha/Documents/Titanium Studio Workspace/TutorialUsingCommonJS/Resources/app.iphone.jss
+/Users/rchadha/Documents/Titanium Studio Workspace/TINavigationController/Resources/app.iphone.jss

@@ -14,7 +14,7 @@ exports.ApplicationWindow = function(navController){
 							});
 							
 							add.addEventListener('click', function() {
-							navController.open(new PF.ui.ApplicationWindow(navController));
+							navController.open(new exports.ApplicationWindow(navController));
 							});
 				win.add(add);
 							
@@ -31,10 +31,18 @@ exports.ApplicationWindow = function(navController){
 	return win;
 };
 
+exports.NewWindow = function(){
+	var newWin = Ti.UI.createWindow({
+		title: 'Window 1'
+	});
+	return newWin;
+};
+
+/*
 exports.DisplayName = function(message){
 	alert('Hello '+message+'!');
 };
-
+*/
 ///NAVIGATION CONTROLLER
 
 exports.NavigationController = function() {

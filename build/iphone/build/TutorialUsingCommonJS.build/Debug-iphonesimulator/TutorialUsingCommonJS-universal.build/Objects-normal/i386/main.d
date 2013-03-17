@@ -1,2 +1,2 @@
 dependencies: \
-  /Users/rchadha/Documents/Titanium\ Studio\ Workspace/TutorialUsingCommonJS/build/iphone/main.m
+  /Users/rchadha/Documents/Titanium\ Studio\ Workspace/TINavigationController/build/iphone/main.m

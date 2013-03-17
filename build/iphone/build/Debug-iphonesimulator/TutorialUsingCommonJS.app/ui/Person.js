@@ -1,1 +1,1 @@
-/Users/rchadha/Documents/Titanium Studio Workspace/TutorialUsingCommonJS/Resources/ui/Person.js
+/Users/rchadha/Documents/Titanium Studio Workspace/TINavigationController/Resources/ui/Person.js

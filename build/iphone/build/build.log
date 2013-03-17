@@ -5,7 +5,7 @@ reporting an issue to help us understand your environment, build settings
 and aid in debugging. Please attach this log to any issue that you report.
 ================================================================================
 
-Starting build at 03/16/13 22:17
+Starting build at 03/17/13 13:05
 
 Build details:
 
@@ -19,7 +19,7 @@ Script arguments:
    /Users/rchadha/Library/Application Support/Titanium/mobilesdk/osx/1.8.2/iphone/builder.py
    simulator
    5.0
-   /Users/rchadha/Documents/Titanium Studio Workspace/TutorialUsingCommonJS
+   /Users/rchadha/Documents/Titanium Studio Workspace/TINavigationController
    net.mrg.TutorialUsingCommonJS
    TutorialUsingCommonJS
    universal
@@ -27,13 +27,13 @@ Script arguments:
    
 
 Building from: /Users/rchadha/Library/Application Support/Titanium/mobilesdk/osx/1.8.2/iphone
-Platform: Darwin Kernel Version 11.4.0: Mon Apr  9 19:32:15 PDT 2012; root:xnu-1699.26.8~1/RELEASE_X86_64
+Platform: Darwin Kernel Version 11.2.0: Tue Aug  9 20:54:00 PDT 2011; root:xnu-1699.24.8~1/RELEASE_X86_64
 
 Xcode path is: /Developer
 
 
 githash=59b3a90, existing_git_hash=59b3a90
-writing contents of /Users/rchadha/Documents/Titanium Studio Workspace/TutorialUsingCommonJS/build/iphone/project.xcconfig:
+writing contents of /Users/rchadha/Documents/Titanium Studio Workspace/TINavigationController/build/iphone/project.xcconfig:
 
 TI_VERSION=1.8.2
 TI_SDK_DIR=/Users/rchadha/Library/Application Support/Titanium/mobilesdk/osx/$(TI_VERSION)/iphone

@@ -1,1 +1,1 @@
-/Users/rchadha/Documents/Titanium Studio Workspace/TutorialUsingCommonJS/Resources/ui/ui.js
+/Users/rchadha/Documents/Titanium Studio Workspace/TINavigationController/Resources/ui/ui.js

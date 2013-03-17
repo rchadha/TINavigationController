@@ -1,1 +1,1 @@
-/Users/rchadha/Documents/Titanium Studio Workspace/TutorialUsingCommonJS/Resources/app.android.jss
+/Users/rchadha/Documents/Titanium Studio Workspace/TINavigationController/Resources/app.android.jss
