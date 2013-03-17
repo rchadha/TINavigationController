@@ -1,0 +1,53 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+	<dict>
+		<key>classes</key>
+		<dict>
+<key>app</key>
+<dict>
+</dict>
+</dict>
+
+		<key>classes_density</key>
+		<dict>
+<key>app</key>
+<dict>
+</dict>
+</dict>
+
+		<key>ids</key>
+		<dict>
+<key>app</key>
+<dict>
+<key>mainwin</key>
+<dict>
+<key>backgroundColor</key>
+<string>red</string>
+</dict>
+</dict>
+</dict>
+
+		<key>ids_density</key>
+		<dict>
+<key>app</key>
+<dict>
+</dict>
+</dict>
+
+		<key>tags</key>
+		<dict>
+<key>app</key>
+<dict>
+</dict>
+</dict>
+
+		<key>tags_density</key>
+		<dict>
+<key>app</key>
+<dict>
+</dict>
+</dict>
+
+	</dict>
+</plist>

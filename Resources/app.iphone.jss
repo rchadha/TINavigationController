@@ -1,0 +1,3 @@
+#mainwin{
+	background-color: 'red';
+}
